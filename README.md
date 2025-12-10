@@ -1,8 +1,20 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
+  Hey! Nice to see you.
+</h1>
 
-<p>Welcome to my GitHub profile! </br>
-I'm <b>Dr. Mahmoud Atef</b>, Lecturer at the <b>Faculty of Information Technology & Computer Science – Sinai University</b>.
-I specialize in <b>Deep Learning, Computer Vision, Networks, Operational Research</b>, and modern software engineering.</p>
+<p align="center">
+  <img src="PUT-YOUR-IMAGE-LINK-HERE" width="160" style="border-radius: 50%; border: 3px solid #555;" />
+</p>
+
+<p align="center">Welcome to my GitHub profile!</p>
+
+---
+
+<p>
+I'm <b>Dr. Mahmoud Atef</b>, Lecturer at the <b>Faculty of Information Technology & Computer Science – Sinai University</b>.  
+I specialize in <b>Deep Learning</b>, <b>Computer Vision</b>, <b>Deepfake Detection</b>, <b>Operational Research</b>, and <b>Network Engineering</b>.
+</p>
 
 <h3>Things I work with</h3>
 <p>
@@ -21,11 +33,11 @@ I specialize in <b>Deep Learning, Computer Vision, Networks, Operational Researc
 
 <h3>Research Interests</h3>
 <ul>
-  <li><b>Deepfake Detection</b> in images and videos.</li>
-  <li><b>Deep Learning Applications</b> in engineering and smart systems.</li>
-  <li><b>Computer Vision</b> for security and automation.</li>
-  <li><b>Operational Research</b> & optimization models.</li>
-  <li><b>Networks & Cybersecurity</b> fundamentals and architectures.</li>
+  <li><b>Deepfake Detection</b> in images and videos</li>
+  <li><b>Deep Learning Applications</b> in engineering</li>
+  <li><b>Computer Vision</b> for automation & security</li>
+  <li><b>Operational Research</b> & mathematical optimization</li>
+  <li><b>Networks & Cybersecurity</b></li>
 </ul>
 
 <h3>Featured Projects</h3>
@@ -48,7 +60,7 @@ I specialize in <b>Deep Learning, Computer Vision, Networks, Operational Researc
       <td><img alt="PRs" src="https://img.shields.io/badge/PRs-open-blue?style=flat-square"/></td>
     </tr>
     <tr>
-      <td><a href="#"><b>Operational Research Models in Python</b></a></td>
+      <td><a href="#"><b>Operational Research Python Models</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/badge/stars-dynamic?style=flat-square&color=yellow"/></td>
       <td><img alt="Forks" src="https://img.shields.io/badge/forks-dynamic?style=flat-square"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/issues-0-green?style=flat-square"/></td>
@@ -57,19 +69,16 @@ I specialize in <b>Deep Learning, Computer Vision, Networks, Operational Researc
   </tbody>
 </table>
 
-<h3>Latest Activities</h3>
-<ul>
-  <li><b>Published:</b> Deepfake detection experiments using CNN + Transformer hybrid models.</li>
-  <li><b>Teaching:</b> Operational Research, Programming, Networks.</li>
-  <li><b>Building:</b> datasets & pipelines for AI-driven video analysis.</li>
-</ul>
-
 <h3>Where to find me</h3>
 <p>
-  <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="#" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="PUT-YOUR-GITHUB-LINK-HERE" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <hr/>
 
-<p align="center">This <i>README</i> is custom designed for your academic & research profile.<br/>Feel free to request updates anytime!</p>
+<p align="center">Custom academic & research optimized README.<br/>Feel free to request updates anytime!</p>
